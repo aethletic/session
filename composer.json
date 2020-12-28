@@ -1,0 +1,12 @@
+{
+    "name": "aethletic/session",
+    "description": "Easy Session manage",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Session\\": "src/"
+        }
+    }
+}
