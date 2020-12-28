@@ -1,6 +1,6 @@
 # PHP Session
 
-Easy way for manage Session on ypur website.
+Easy way for manage Session on your website.
 
 ## Installation
 
