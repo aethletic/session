@@ -15,7 +15,7 @@ class Session
      */
     private static $options = [
         'name'          => 'PHPSESSID',
-        'cache_expire'  => "320", // minutes
+        'cookie_lifetime' => 86400, // seconds
     ];
 
     /**
