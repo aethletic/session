@@ -16,8 +16,8 @@ use Session\Session;
 require 'vendor/autoload.php';
 
 Session::start([
-    'name'          => 'PHPSSID_CUSTOM_NAME',
-    'cache_expire'  => '320', // minutes
+    'name'            => 'PHPSSID_CUSTOM_NAME',
+    'cookie_lifetime' => 86400, // seconds
 ]);
 ```
 
