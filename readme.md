@@ -5,7 +5,7 @@ Easy way for manage Session on your website.
 ## Installation
 
 ```bash
-composer require aethletic/session
+composer require chipslays/session
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ Session::start([
 > See more available options [here](https://www.php.net/manual/ru/session.configuration.php).
 
 ```php
-Session::set('name', 'Aethletic');
+Session::set('name', 'chipslays');
 ```
 
 ```php
